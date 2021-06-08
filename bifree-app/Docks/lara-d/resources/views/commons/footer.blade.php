@@ -1,5 +1,5 @@
 <footer>
-	<div class="container">
+	<div class="container text-center">
 		(c)Bifree
 	</div>
 </footer>
