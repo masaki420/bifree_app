@@ -3,7 +3,7 @@
 @section('content')
 
 	<div class="form-wrap">
-		<div class="form-signin">
+		<div class="form-signin row">
 			<form action="">
 				<h1 class="h3 mb-3 fw-normal text-center">新規登録</h1>
 					<div class="form-group mb-4 text-justify">
@@ -14,7 +14,7 @@
 						<label for="" class="">Email</label>
 						<input type="email" class="form-control">
 					</div>
-					<div class="form-group mb-4">
+					<div class="form-group mb-4col-sm-8 row col-md-5">
 						<label for="">パスワード</label>
 						<input type="password" class="form-control">
 					</div>
